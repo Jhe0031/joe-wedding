@@ -1,1 +1,0 @@
-A lovely website made by the Googler gang in celebration of Joe Tessler's wedding
