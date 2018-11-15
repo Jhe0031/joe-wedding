@@ -1,3 +1,7 @@
+#about {
+    background-color: #A02B95;
+}
+
 body,
 html {
     height: 100%
@@ -12,25 +16,28 @@ h5 {
     font-family: "Raleway", sans-serif;
 }
 
-.w3-third img {
-    margin-bottom: -6px;
-    opacity: 0.8;
-    cursor: pointer
-}
-
-.w3-third img:hover {
-    opacity: 1
-}
-
 body, html {
     height: 100%
 }
- 
+
+.footer {
+    background-color: #3cba54;
+}
+
 #main {
-    background-image: url('http://123.242.161.52/w3images/IMG/forestbridge.jpg');
+    background-image: url('https://wedding-pictures.onewed.com/match/images/91417/funny-geeky-wedding-invitations-computer-coding-theme-fuschia-12.full.jpg');
     height: 750px;
     background-position: center;
     background-size: cover;
+}
+
+#mySidebar {
+    background-color: #4885ed;
+}
+
+.padding-64 {
+    padding-top: 64px!important;
+    padding-bottom: 32px!important;
 }
 
 .text_middle {
@@ -39,4 +46,20 @@ body, html {
     left: 50%;
     transform: translate(-50%,0%);
     -ms-transform: translate(-50%,0%);
+}
+
+#turtle {
+    height: 56px;
+    width: 100px;
+    margin-bottom: 32px!important;
+}
+
+.w3-third img {
+    margin-bottom: -6px;
+    opacity: 0.8;
+    cursor: pointer
+}
+
+.w3-third img:hover {
+    opacity: 1
 }
